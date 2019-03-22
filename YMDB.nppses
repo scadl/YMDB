@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="16" xOffset="0" scrollWidth="2472" startPos="479" endPos="479" selMode="0" lang="HTML" encoding="-1" filename="C:\xampp\htdocs\MyPHP\YMDB\index.php" backupFilePath="" originalFileLastModifTimestamp="1442057586" />
+            <File firstVisibleLine="145" xOffset="0" scrollWidth="2472" startPos="3126" endPos="3126" selMode="0" lang="CSS" encoding="-1" filename="C:\xampp\htdocs\MyPHP\YMDB\ymdb.css" backupFilePath="" originalFileLastModifTimestamp="1442388812" />
+            <File firstVisibleLine="197" xOffset="0" scrollWidth="2472" startPos="6222" endPos="6222" selMode="0" lang="Javascript" encoding="-1" filename="C:\xampp\htdocs\MyPHP\YMDB\JSLogic.js" backupFilePath="" originalFileLastModifTimestamp="1442392343" />
+            <File firstVisibleLine="146" xOffset="0" scrollWidth="2472" startPos="8089" endPos="8096" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\MyPHP\YMDB\dailogs.php" backupFilePath="" originalFileLastModifTimestamp="1442392343" />
+            <File firstVisibleLine="166" xOffset="0" scrollWidth="2472" startPos="6224" endPos="6224" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\MyPHP\YMDB\processor.php" backupFilePath="" originalFileLastModifTimestamp="1442392611" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
